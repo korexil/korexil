@@ -36,9 +36,9 @@
 
   <rect x="0.5" y="0.5" width="859" height="249" rx="16" fill="#0d1117" stroke="#30363d"/>
 
-  <!-- moon, phase of 2026-10-22 (age 10.7 days) -->
+  <!-- moon, phase of 2026-10-23 (age 11.7 days) -->
   <circle cx="58" cy="54" r="20" fill="#fbefc0" opacity="0.15"/>
-  <path d="M58 34 A20 20 0 0 1 58 74 A13.10 20 0 0 1 58 34 Z" fill="#fbefc0"/>
+  <path d="M58 34 A20 20 0 0 1 58 74 A16.00 20 0 0 1 58 34 Z" fill="#fbefc0"/>
 
   <ellipse cx="134" cy="192" rx="92" ry="7" fill="#000000" opacity="0.35"/>
   <g class="tail-still">
